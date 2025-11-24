@@ -18,11 +18,7 @@ https://livectv.phando.com/8058/playlist.m3u8
 https://see.lokshahi.live/live/index.m3u8
 #EXTINF:0 tvg-chno="1302" group-title="Marathi | News",ABP Majha
 https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
-#EXTINF:0 tvg-chno="1303" group-title="Marathi | News",NDTV Marathi
-https://ythls-v3.onrender.com/channel/UCyffgTMQXF9bwwmeAn_TI2Q.m3u8
 
-#EXTINF:0 tvg-chno="2001" group-title="Hindi | Entertainment",DD National HD
-https://livectv.phando.com/8015/playlist.m3u8
 #EXTINF:0 tvg-chno="2002" group-title="Hindi | Entertainment",DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 
@@ -30,8 +26,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:0 tvg-chno="3012" group-title="Hindi | Movies",Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-#EXTINF:0 tvg-chno="3013" group-title="Hindi | Movies",Bollywood Prime
-https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 
 #EXTINF:0 tvg-chno="4010" group-title="Hindi | Music",Ishtar Music Live
 https://ythls-v3.onrender.com/channel/UCWi_65E_L8tQZ34C6wVAlpQ.m3u8
@@ -50,8 +44,6 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 #EXTINF:0 tvg-chno="7004" group-title="Hindi | News",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-#EXTINF:0 tvg-chno="7005" group-title="Hindi | News",Aap Ki Adalat
-https://ythls-v3.onrender.com/channel/UCB5C3oyks1QkFdKIN-7WopQ.m3u8
 
 #EXTINF:-1 group-title="Ravi | CDN",9XM
 https://amg01281-9xmediapvtltd-9xmusic-samsungin-j8yoo.amagi.tv/playlist/amg01281-9xmediapvtltd-9xmusic-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
@@ -59,16 +51,10 @@ https://amg01281-9xmediapvtltd-9xmusic-samsungin-j8yoo.amagi.tv/playlist/amg0128
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 group-title="Ravi | CDN",9X Jhakaas
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 group-title="Ravi | CDN",Q Marathi
-https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01687-qyouindia-qmarathiin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 #EXTINF:-1 group-title="Jio | Marathi",Zee Talkies
 https://jiolive.tv/player/jiotv/app/live/153/null/index.m3u8
 
-#EXTINF:-1 group-title="UK | Hindi",Utsav Bharat
-http://46.249.58.11:5000/live/premium-aostv-free/download-fdrm-aostv.asia/12159.ts
-#EXTINF:-1 group-title="UK | Hindi",Utsav Plus HD
-http://46.249.58.11:5000/live/premium-aostv-free/download-fdrm-aostv.asia/12650.ts
 #EXTINF:-1 group-title="UK | Hindi",Utsav Gold HD
 http://46.249.58.11:5000/live/premium-aostv-free/download-fdrm-aostv.asia/12750.ts
 
@@ -116,3 +102,4 @@ https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF: -1 tvg-id="525" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="SonyLiv",BBC EARTH
 https://sony247channels.akamaized.net/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=st=1724826302~exp=1724826602~acl=*~id=23ba1394-db15-4d1b-8a17-b9934af7c837~hmac=a8ac4af029e1e16019066f29ee1a058c9a3758e91ced492dccd2f48f053af2a2&originpath=/linear/hls/pb/event/V73ovbgASP-xGvQQOukwTQ/stream/2778acca-4a25-4405-a1da-0611ff810ee7:SIN2/master.m3u8
+
