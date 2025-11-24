@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="http://botallen.live/epg.xml.gz
+#EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 
 #EXTINF:0 tvg-chno="1" group-title="Github",Welcome
 https://piyushk100.github.io/iptv.github.io/welcome.mp4?token=hhehehhebbeb333uhb
@@ -115,5 +115,6 @@ https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF: -1 tvg-id="525" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="SonyLiv",BBC EARTH
 https://sony247channels.akamaized.net/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=st=1724826302~exp=1724826602~acl=*~id=23ba1394-db15-4d1b-8a17-b9934af7c837~hmac=a8ac4af029e1e16019066f29ee1a058c9a3758e91ced492dccd2f48f053af2a2&originpath=/linear/hls/pb/event/V73ovbgASP-xGvQQOukwTQ/stream/2778acca-4a25-4405-a1da-0611ff810ee7:SIN2/master.m3u8
+
 
 
