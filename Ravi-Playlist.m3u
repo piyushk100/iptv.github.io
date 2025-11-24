@@ -1,10 +1,11 @@
 #EXTM3U
+#EXTM3U url-tvg="http://botallen.live/epg.xml.gz
 
 #EXTINF:0 tvg-chno="1" group-title="Github",Welcome
 https://piyushk100.github.io/iptv.github.io/welcome.mp4?token=hhehehhebbeb333uhb
 
 #EXTINF:0 tvg-chno="1001" group-title="Marathi | Entertainment",DD Sahyadri
-https://livectv.phando.com/8023/playlist.m3u8
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8
 
 #EXTINF:0 tvg-chno="1101" group-title="Marathi | Movies",Zee Talkies
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkies/default/index.m3u8
@@ -17,18 +18,34 @@ https://livectv.phando.com/8058/playlist.m3u8
 #EXTINF:0 tvg-chno="1301" group-title="Marathi | News",Lokshahi News
 https://see.lokshahi.live/live/index.m3u8
 #EXTINF:0 tvg-chno="1302" group-title="Marathi | News",ABP Majha
-https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
+https://in1.sunilprasad.com.np/yuppLive/abp-majha/master.m3u8
 
+#EXTINF:0 tvg-chno="2001" group-title="Hindi | Entertainment",DD National HD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 #EXTINF:0 tvg-chno="2002" group-title="Hindi | Entertainment",DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
+#EXTINF:0 tvg-chno="2098" group-title="Hindi | Entertainment",Abzy Dhakad
+https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
 
 #EXTINF:0 tvg-chno="3011" group-title="Hindi | Movies",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:0 tvg-chno="3012" group-title="Hindi | Movies",Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:0 tvg-chno="3013" group-title="Hindi | Movies",B4U Kadak (1080p)
+https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
+#EXTINF:0 tvg-chno="3014" group-title="Hindi | Movies",B4U Movies India
+https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+#EXTINF:0 tvg-chno="3015" group-title="Hindi | Movies",B4U Plus
+http://183.89.246.119:8881/play/a08l/index.m3u8
+#EXTINF:0 tvg-chno="3016" group-title="Hindi | Movies",Zee Bollymovies
+https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-chno="3099" group-title="Hindi | Movies",Abzy Movies
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
 
-#EXTINF:0 tvg-chno="4010" group-title="Hindi | Music",Ishtar Music Live
-https://ythls-v3.onrender.com/channel/UCWi_65E_L8tQZ34C6wVAlpQ.m3u8
+
+#EXTINF:0 tvg-chno="4001" group-title="Hindi | Music",B4U Music
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+
 
 #EXTINF:1 tvg-chno="5002" group-title="Hindi | Sports", Jio Cinema Hindi
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100322/hd_akamai_iosmob_avc_hin_indvsaus_odi03/master_1080p.m3u8
@@ -52,13 +69,9 @@ https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xja
 #EXTINF:-1 group-title="Ravi | CDN",9X Jhakaas
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-#EXTINF:-1 group-title="Jio | Marathi",Zee Talkies
-https://jiolive.tv/player/jiotv/app/live/153/null/index.m3u8
-
 #EXTINF:-1 group-title="UK | Hindi",Utsav Gold HD
 http://46.249.58.11:5000/live/premium-aostv-free/download-fdrm-aostv.asia/12750.ts
 
-#EXTM3U url-tvg="http://botallen.live/epg.xml.gz
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SonyLiv",SONY HD
 https://sony247channels.akamaized.net/hls/live/2011671-b/SETHD/master.m3u8?hdnea=st=1724824401~exp=1724824701~acl=*~id=c3add5bd-84b4-46b0-8a3c-4b7f57f2d469~hmac=b7cbb17b6ee06ec05c1f58b7f6547df1f9128cbd8f9c0f9a6519779744ea6b3e&originpath=/linear/hls/pb/event/HgaB-u6rSpGx3mo4Xu3sLw/stream/5413cb3b-4fbf-41e4-bca5-dacf732e48b4:SIN/master.m3u8 
@@ -102,4 +115,5 @@ https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF: -1 tvg-id="525" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="SonyLiv",BBC EARTH
 https://sony247channels.akamaized.net/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=st=1724826302~exp=1724826602~acl=*~id=23ba1394-db15-4d1b-8a17-b9934af7c837~hmac=a8ac4af029e1e16019066f29ee1a058c9a3758e91ced492dccd2f48f053af2a2&originpath=/linear/hls/pb/event/V73ovbgASP-xGvQQOukwTQ/stream/2778acca-4a25-4405-a1da-0611ff810ee7:SIN2/master.m3u8
+
 
